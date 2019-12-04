@@ -13,6 +13,7 @@ public class ReadBinary
             
             BinaryReader binaryReader = new BinaryReader(fs);
             //binaryReader.
+            
         }
 
     }
